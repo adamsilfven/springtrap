@@ -1,6 +1,6 @@
 # Spring Trap
 
-Looks like an oak pressure plate. Step on it and you'll go flying 20–25 blocks up and off in a random direction. There's a puff of smoke and a boing. It resets after a second. Mind the landing.
+A fun, little mod that can cause chaos, or actually be a practical defense technique in both single player and PvP. Spring Trap looks like an oak pressure plate when you place it down, but when a creature, player or even you step on it, it launches them up to 25 blocks into the air! 
 
 ## Install
 
