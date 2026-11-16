@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "minecraft:block/oak_planks",
+    "metal": "minecraft:block/iron_block",
+    "spring": "minecraft:block/redstone_block"
+  },
+  "elements": [
+    {
+      "from": [1, 0, 1], "to": [15, 1, 15],
+      "faces": {
+        "down": { "texture": "#texture", "cullface": "down" },
+        "up": { "texture": "#texture" },
+        "north": { "texture": "#texture" },
+        "south": { "texture": "#texture" },
+        "west": { "texture": "#texture" },
+        "east": { "texture": "#texture" }
+      }
+    },
+    {
+      "from": [5, 1, 5], "to": [11, 2, 11],
+      "faces": {
+        "up": { "texture": "#metal" },
+        "north": { "texture": "#metal" },
+        "south": { "texture": "#metal" },
+        "west": { "texture": "#metal" },
+        "east": { "texture": "#metal" }
+      }
+    },
+    {
+      "from": [7, 2, 7], "to": [9, 3, 9],
+      "faces": {
+        "up": { "texture": "#spring" },
+        "north": { "texture": "#spring" },
+        "south": { "texture": "#spring" },
+        "west": { "texture": "#spring" },
+        "east": { "texture": "#spring" }
+      }
+    }
+  ]
+}

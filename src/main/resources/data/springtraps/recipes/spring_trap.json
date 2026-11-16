@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": ["SRS", "IPI"],
+  "key": {
+    "S": { "item": "minecraft:slime_ball" },
+    "R": { "item": "minecraft:redstone" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "P": { "item": "minecraft:piston" }
+  },
+  "result": { "item": "springtraps:spring_trap", "count": 1 }
+}

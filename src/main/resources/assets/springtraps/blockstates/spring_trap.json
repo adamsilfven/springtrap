@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "triggered=false": { "model": "springtraps:block/spring_trap" },
+    "triggered=true": { "model": "springtraps:block/spring_trap_down" }
+  }
+}
